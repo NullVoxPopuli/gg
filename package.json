@@ -47,7 +47,7 @@
   },
   "repository": "NullVoxPopuli/gg",
   "scripts": {
-    "posttest": "eslint . --ext .ts --config .eslintrc",
+    "lint:js": "eslint .",
     "prepack": "rm -rf lib && tsc -b && oclif-dev readme",
     "test": "nyc --extension .ts mocha --forbid-only \"test/**/*.test.ts\"",
     "version": "oclif-dev readme && git add README.md"
