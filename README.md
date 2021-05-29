@@ -8,6 +8,8 @@ optimized file-system navigation in the terminal focused on navigating to and wi
 [![Downloads/week](https://img.shields.io/npm/dw/@nullvoxpopuli/gg.svg)](https://npmjs.org/package/@nullvoxpopuli/gg)
 [![License](https://img.shields.io/npm/l/@nullvoxpopuli/gg.svg)](https://github.com/NullVoxPopuli/gg/blob/master/package.json)
 
+_Requires default Node of >= 14_
+
 <!-- toc -->
 * [Usage](#usage)
 * [Commands](#commands)
