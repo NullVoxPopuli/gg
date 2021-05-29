@@ -4,4 +4,4 @@
 const { configs } = require('@nullvoxpopuli/eslint-configs');
 
 // accommodates: JS
-module.exports = configs.nodeES();
+module.exports = configs.nodeESTS();
