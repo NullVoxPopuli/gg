@@ -21,7 +21,7 @@ $ npm install -g @nullvoxpopuli/gg
 $ gg COMMAND
 running command...
 $ gg (-v|--version|version)
-@nullvoxpopuli/gg/0.0.0 linux-x64 node-v10.24.1
+@nullvoxpopuli/gg/0.0.0 linux-x64 node-v14.17.0
 $ gg --help [COMMAND]
 USAGE
   $ gg COMMAND

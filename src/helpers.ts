@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import chalk from 'chalk';
 import { stripIndent } from 'common-tags';
 import execa from 'execa';
